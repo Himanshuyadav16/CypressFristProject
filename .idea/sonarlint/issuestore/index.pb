@@ -13,3 +13,9 @@ M
 cypress/fixtures/example.json,7/2/72a61609985a07cf3d4e451ab16e1dcb751ceec9
 A
 cypress.config.js,c/b/cb145b820b06c497f093abf819116482af263d56
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
+<
+package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+K
+cypress/e2e/dermaHome.cy.js,4/5/45a5fc1770b2044788e08ed31fc14206564247c4
